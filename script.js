@@ -15,10 +15,10 @@ function firstNonRepeatedChar(str) {
     }
     
     // If no non-repeated character is found, return an empty string or any other value you prefer
-    return '';
+    return ''; 
 
 	
  
 }
-// const input = prompt("Enter a string");
+const input = prompt("Enter a string");
 alert(firstNonRepeatedChar(input)); 
